@@ -1,4 +1,4 @@
-# debouncing-javascript
+# Debouncing-javascript
 Debouncing in Javascript 
 
 Throttling vs Debouncing
